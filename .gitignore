@@ -1,0 +1,4 @@
+/webplayground_env
+**/__pycache__/
+**/migrations/
+/webplayground/media/profiles/*
